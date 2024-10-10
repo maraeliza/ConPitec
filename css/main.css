@@ -1,0 +1,31 @@
+
+
+.verde{
+    color:#016b6b
+}
+.divInputs div{
+    display: flex;
+}
+.divInput p{
+
+    text-align: left;
+}
+
+
+tr{
+    text-align: center;
+}
+
+.sinImg{
+    width: 25%;
+}
+
+.tabelaTrabalhos{
+    width:80%;
+    margin: auto;
+}
+.img_footer{
+    width:40%;
+    height: auto;
+    max-height: 300px;
+}
